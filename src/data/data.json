@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "nama": "Nyuci mobil",
+    "check": true
+  },
+  {
+    "id": 2,
+    "nama": "Memberi makan kucing",
+    "check": true
+  },
+  {
+    "id": 3,
+    "nama": "Olahraga 10 menit",
+    "check": false
+  },
+  {
+    "id": 4,
+    "nama": "Sarapan sereal",
+    "check": true
+  },
+  {
+    "id": 5,
+    "nama": "Belanja harian",
+    "check": false
+  },
+  {
+    "id": 6,
+    "nama": "Ngeprint tugas",
+    "check": true
+  },
+  {
+    "id": 7,
+    "nama": "Bayar tagihan bulanan",
+    "check": true
+  },
+  {
+    "id": 8,
+    "nama": "Berangkat kuliah",
+    "check": false
+  },
+  {
+    "id": 9,
+    "nama": "Les bahasa Inggris",
+    "check": true
+  },
+  {
+    "id": 10,
+    "nama": "Ke rumah Sabrina",
+    "check": false
+  }
+
+  
+]
